@@ -32,7 +32,7 @@ import { AppService } from './app.service';
 		}),
 		TypeOrmModule.forRoot({
 			type: 'postgres',
-			host: '127.0.0.1',
+			host: 'database',
 			port: 5432,
 			username: 'student',
 			password: 'student',
