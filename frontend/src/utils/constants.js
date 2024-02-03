@@ -1,4 +1,4 @@
-export const URL = "https://api.ainur.social.nomoredomainsmonster.ru";
+export const URL = "https://api.ainur.kpd.nomoredomainsmonster.ru";
 
 export const MINIMUM_PASSWORD_LENGTH = 3;
 export const MINIMUM_USERNAME_LENGTH = 3;
